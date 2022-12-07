@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/20-mejores-ps4/static/css/main.1f0effb3.css",
+    "main.js": "/20-mejores-ps4/static/js/main.2130a8b3.js",
+    "static/media/old-paper-bg.webp": "/20-mejores-ps4/static/media/old-paper-bg.b34597d61b6a7e137276.webp",
+    "static/media/ps4-background.jpg": "/20-mejores-ps4/static/media/ps4-background.864404ff125dbe66aef4.jpg",
+    "static/media/metacritic.svg": "/20-mejores-ps4/static/media/metacritic.0d160eccd43e723474d26e35464f992f.svg",
+    "index.html": "/20-mejores-ps4/index.html",
+    "main.1f0effb3.css.map": "/20-mejores-ps4/static/css/main.1f0effb3.css.map",
+    "main.2130a8b3.js.map": "/20-mejores-ps4/static/js/main.2130a8b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f0effb3.css",
+    "static/js/main.2130a8b3.js"
+  ]
+}
